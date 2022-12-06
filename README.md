@@ -1,10 +1,10 @@
 <h1 align="center">
  👋 Hi, I'm Maziar Mansouri!
 </h1><p>
-✨ I'm a Full Stack Web Developer who loves modern web technologies and passionate for developing scalable & customer-focused web applications using MERN Stack. Passionate about implementing new ideas in reality. Looking for the opportunity where I can utilize the extensive knowledge I have gained during my Full stack web development course😃. I focuses on writing clean, elegant and efficient code</p>
+✨ I'm a Full Stack Web Developer who loves modern web technologies and passionate for developing scalable & customer-focused web applications using MERN Stack. Passionate about implementing new ideas in reality. Looking for the opportunity where I can utilize the extensive knowledge I have gained during my Full stack web development course😃. I am focused on writing clean, elegant and efficient code.</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Dynamic%20Web%20Designer;👨&zwj;💻%20Fullstack%20Web%20Developer;🤝%206%2B%20months%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&amp;font=Pacifico&amp;center=true&amp;width=650&amp;height=120&amp;color=58a6ff&amp;vCenter=true&amp;size=45%22" style="max-width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Dynamic%20Web%20Designer;👨&zwj;💻%20Fullstack%20Web%20Developer;🤝%201%2B%20year%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&amp;font=Pacifico&amp;center=true&amp;width=650&amp;height=120&amp;color=58a6ff&amp;vCenter=true&amp;size=45%22" style="max-width: 100%;">
 </p>
 
 </br>
@@ -29,7 +29,6 @@
 <a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=javascript&amp;logoColor=F0DB4F" style="max-width: 100%;"> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&amp;labelColor=black&amp;logo=react&amp;logoColor=61DBFB" style="max-width: 100%;"> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&amp;labelColor=black&amp;logo=redux&amp;logoColor=007acc" style="max-width: 100%;"> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&amp;logo=material&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&amp;labelColor=black&amp;logo=node.js&amp;logoColor=609857" style="max-width: 100%;"> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&amp;labelColor=black&amp;logo=express&amp;logoColor=2361DAFB" style="max-width: 100%;"> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&amp;labelColor=black&amp;logo=mongoDB&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
@@ -39,13 +38,6 @@ style="max-width: 100%;"> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;labelColor=black&amp;logo=netlify&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
 </p>
 <br/>
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-  <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary>
-  <br/>
-
-<a href="https://github.com/ApexSpunk"><img alt="ApexSpunk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ApexSpunk&custom_title=ApexSpunk's%20Contribution%20Graph&theme=react-dark" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -79,13 +71,9 @@ style="max-width: 100%;"> </a> &nbsp;
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ApexSpunk/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/maziar-mansouri-879a61192/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
 </p>
-
-<!-- ## ❤ Views and Followers
-
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=ApexSpunk&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p> -->
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
