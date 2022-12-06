@@ -12,13 +12,13 @@
 <a href="#"><img  width="100%" height="auto" src="https://devtechnosys.com/insights/wp-content/uploads/2022/01/Why-we-use-ReactJS-for-our-projects-Illustration.jpg" height="175px"/></a>
 
 - 🔭 I’m currently working on Frontend And Backend technologies 😅
-- 👨‍💻 I’m currently learning ReactJs, NodeJs, ExpressJs, MongoDB, NextJs at Masai School.
-- 💬 Ask me about ReactJs, NodeJs, ExpressJs, MongoDB, NextJs, AWS
+- 👨‍💻 I’m currently learning ReactJs, NodeJs, ExpressJs, MongoDB, NextJs.
+- 💬 Ask me about ReactJs, NodeJs, ExpressJs, MongoDB, NextJs.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 👨‍💻 This is [My Portfolio](https://apexspunk.github.io)
+- 👨‍💻 This is [My Portfolio](https://8maziar.github.io)
 
-- 📄 This is [My Resume](https://drive.google.com/file/d/16EuiGX8dMwGwNQS6t6P5E62PpDvgsFuU/view?usp=sharing)
-- 📫 How to reach me: ...*indspunk@gmail.com*
+- 📄 This is [CV](https://drive.google.com/file/d/1oF5rv0H6cIm8j_ZaHKeo94lEyEPWBugC/view?usp=sharing)
+- 📫 How to reach me: ...*8maziar@gmail.com*
 
 <h2></h2>
 
@@ -83,9 +83,9 @@ style="max-width: 100%;"> </a> &nbsp;
 
 </p>
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=ApexSpunk&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=ApexSpunk&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p> -->
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
