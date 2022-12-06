@@ -3,6 +3,10 @@
 </h1><p>
 ✨ I'm a Full Stack Web Developer who loves modern web technologies and passionate for developing scalable & customer-focused web applications using MERN Stack. Passionate about implementing new ideas in reality. Looking for the opportunity where I can utilize the extensive knowledge I have gained during my Full stack web development course😃. I am focused on writing clean, elegant and efficient code.</p>
 
+<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+</br>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Dynamic%20Web%20Designer;👨&zwj;💻%20Fullstack%20Web%20Developer;🤝%201%2B%20year%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&amp;font=Pacifico&amp;center=true&amp;width=650&amp;height=120&amp;color=58a6ff&amp;vCenter=true&amp;size=45%22" style="max-width: 100%;">
 </p>
@@ -83,7 +87,3 @@ style="max-width: 100%;"> </a> &nbsp;
 </p>
 
 <br>
-
-<!--  -->
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
