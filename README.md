@@ -36,6 +36,8 @@
 style="max-width: 100%;"> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;labelColor=black&amp;logo=heroku&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;labelColor=black&amp;logo=netlify&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+<!-- ikdjkjkjddjk -->
+<a href="#"> <img src="https://img.shields.io/badge/NextJS-orange?style=for-the-badge&amp;labelColor=black&amp;logo=html5&amp;logoColor=orange" style="max-width: 100%;"> </a> &nbsp;
 </p>
 <br/>
 
@@ -43,7 +45,7 @@ style="max-width: 100%;"> </a> &nbsp;
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=ApexSpunk" alt="ApexSpunk"/>
+		<img src="https://github-profile-trophy.vercel.app/?username=8maziar" alt="8maziar"/>
 	</a>
 </p>
 
