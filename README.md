@@ -53,11 +53,11 @@ style="max-width: 100%;"> </a> &nbsp;
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ApexSpunk&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ApexSpunk&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ApexSpunk&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ApexSpunk&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ApexSpunk&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8maziar&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8maziar&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=8maziar&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=8maziar&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=8maziar&theme=solarized_dark&utcOffset=8">
 	
 </p>
 
@@ -66,8 +66,8 @@ style="max-width: 100%;"> </a> &nbsp;
 ## 📊 My Github Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ApexSpunk&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ApexSpunk&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=8maziar&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=8maziar&theme=algolia" />
 </p>
 
 ## Connect with me:
